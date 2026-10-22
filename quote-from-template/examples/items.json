@@ -1,0 +1,9 @@
+[
+  {"name": "Network switch 24-port", "spec": "SW-24", "qty": 2, "unit_price": 450000, "note": "incl. rack ears"},
+  {"name": "Wireless access point", "spec": "AP-6", "qty": 8, "unit_price": 120000},
+  {"name": "Cabling and installation", "qty": 1, "unit_price": 1800000, "note": "on site"},
+  {"name": "Support, 12 months", "spec": "SUP-12", "qty": 1, "unit_price": 600000},
+  {"name": "Patch cable 1m", "spec": "PC-1", "qty": 40, "unit_price": 2500},
+  {"name": "Rack shelf", "qty": 2, "unit_price": 35000},
+  {"name": "Labeling kit", "qty": 1, "unit_price": 18000}
+]

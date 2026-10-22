@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.corrupt-*
+*.profile.json
+profile.json
+reports/
+.DS_Store
