@@ -29,4 +29,4 @@ Exit codes of `git-safepush`: 0 pushed · 1 rebase/merge in progress · 2 rebase
 
 ## Status
 
-Extracted from a private repo and scrubbed by hand. Not packaged, no tests included. `git-safepush.sh` was exercised in throwaway repos (normal push, remote moved, dirty tree, conflict). `session_waste_report.py` was run on synthetic logs. `workflows/*.js` pass a syntax check but have not been run end to end. No license file yet.
+Extracted from a private repo and scrubbed by hand. Not packaged, no tests included. `git-safepush.sh` was exercised in throwaway repos (normal push, remote moved, dirty tree, conflict). `session_waste_report.py` was run on synthetic logs. `workflows/*.js` pass a syntax check but have not been run end to end. Licensed under MIT.
